@@ -1,0 +1,4 @@
+.cardparagraph{
+    flex-grow: 1;
+    flex-flow: column;
+}

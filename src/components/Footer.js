@@ -1,13 +1,15 @@
 import React from 'react';
 import './Footer.css'
+import NewsletterForm from "./NewsletterForm";
 
 
-export default function Footer(props){
+export default function Footer(){
     return (
         <footer className="Footer">
-            <h3>
-                {props.children}
-            </h3>
+
+             <span>Created with love</span>
+
+            <NewsletterForm className="newsLetterForm"/>
         </footer>
     )
 }

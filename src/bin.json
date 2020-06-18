@@ -1,0 +1,18 @@
+{
+"animals" : [
+  {
+  "title": "Bears",
+
+  "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad laborum mollitia tempore voluptates? Ad commodi maiores obcaecati vero, vitae voluptates!",
+
+  "imageSource": "https://cdn.pixabay.com/photo/2013/11/15/18/14/grizzly-210996__480.jpg",
+},
+  {
+    "title": "Wolves",
+
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad laborum mollitia tempore voluptates? Ad commodi maiores obcaecati vero, vitae voluptates!",
+
+    "imageSource": "https://cdn.pixabay.com/photo/2016/04/18/10/17/wolf-1336229__480.jpg",
+  },
+]
+}
